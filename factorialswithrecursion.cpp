@@ -19,3 +19,4 @@ int main(){
 		cout << factorial(factor) << endl;
 	}
 }
+//end
